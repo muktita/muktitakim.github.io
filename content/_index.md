@@ -82,8 +82,7 @@ sections:
           location: California
           date_start: '2022-08-01'
           date_end: '2022-12-31'
-          description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by
-utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
+          description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
     design:
       columns: '2'
   # - block: accomplishments
