@@ -83,6 +83,15 @@ sections:
           date_start: '2022-08-01'
           date_end: '2022-12-31'
           description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
+
+          - title: Director of Information Technology
+          company: Sonarverse
+          company_url: ''
+          company_logo: ''
+          location: California
+          date_start: '2023-02-01'
+          date_end: '2023-12-31'
+          description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
     design:
       columns: '2'
   # - block: accomplishments
