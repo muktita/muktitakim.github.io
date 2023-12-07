@@ -52,12 +52,17 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
-      - name: NodeJS
+      - name: NodeJS, ExpressJS, Fask, .Net, Django
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+        - name: Vue, React, Tailwind, Bootstrap
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: MySQL, MS SQL, PostgreSQL, MongoDB, Redis
         description: ''
         percent: 100
         icon: database
