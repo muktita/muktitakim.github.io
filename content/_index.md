@@ -81,7 +81,7 @@ sections:
           company_logo: ''
           location: California
           date_start: '2022-08-01'
-          date_end: '2022-12-31'
+          date_end: '2022-12-01'
           description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
           - title: Director of Information Technology
           company: Cambodian Student Association in the USA
@@ -95,7 +95,7 @@ sections:
           * Manages website’s technical infrastructure, including domain hosting and email setup, ensuring robust operational performance.
           * Implements Agile Scrum methodologies, streamlining project delivery and enhancing team collaboration in web development
     design:
-      columns: '2'
+      columns: '3'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
