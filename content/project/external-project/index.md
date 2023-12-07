@@ -6,7 +6,7 @@ tags:
 date: "2023-011-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/muktita/JWT-MultiDevice-SignOut
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
