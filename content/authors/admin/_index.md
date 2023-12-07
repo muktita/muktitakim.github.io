@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Muktita Kim
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Muktita
+last_name: Kim
 
 # Status emoji
 status:
@@ -17,73 +14,72 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Software Engineer
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# # Organizations/Affiliations to show in About widget
+# organizations:
+#   - name: Stanford University
+#     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: As a dedicated Master student in Software Engineering, I bring a strong foundation in both front-end and back-end development. My experience includes impactful roles such as a Software Engineer Intern at Sonarverse and an IT Student Assistant at my university. Proficient in a variety of programming languages and tools, including JavaScript, TypeScript, Python, Node.js, and ReactJS, I excel in creating innovative software solutions. My journey reflects a passion for technology, a commitment to continuous learning, and a proven ability to thrive in dynamic, collaborative environments.
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cloud Computing and DevOps
+  - Full Stack Development
+  - Artificial Intelligence and Machine Learning 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Software Engineering
+      institution: California State University - Fullerton
+      year: 2024
+    # - course: MEng in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2009
+    - course: BSc in Computer Science
+      institution: California State University - Fullerton
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Javascript, TypeScript, Python, Java, C++, C#, Swift, Kotlin
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: NodeJS
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 100
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Git, Docker, Servers (AWS EC2, Azure Virtual Server)
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 100
+        icon: toolbox
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Software Development Life Cycle (Agile Scrum, XP, Kanban, Jira)
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: toolbox
         icon_pack: fas
 
 # Social/Academic Networking
@@ -91,24 +87,24 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/muktita
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/muktita-kim
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
