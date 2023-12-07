@@ -81,7 +81,7 @@ sections:
           company_logo: ''
           location: California
           date_start: '2023-10-01'
-          date_end: ''
+          date_end: '2024-10-01'
           description: |2-
           * Lead website redevelopment using JavaScript and Bootstrap, managing full-stack development from design to deployment
           * Manages website’s technical infrastructure, including domain hosting and email setup, ensuring robust operational performance.
