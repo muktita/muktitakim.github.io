@@ -62,6 +62,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Director of Information Technology
+          company: Cambodian Student Association in the USA
+          company_url: ''
+          company_logo: ''
+          location: California
+          date_start: '2023-10-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Manages website’s technical infrastructure, including domain hosting and email setup, ensuring robust operational performance
+              * Lead website redevelopment using JavaScript and Bootstrap, managing full-stack development from design to deployment
+              * Implements Agile Scrum methodologies, streamlining project delivery and enhancing team collaboration in web development.
+
         - title: IT Student Assistant
           company: California State University, Fullerton
           company_url: ''
@@ -84,14 +98,7 @@ sections:
           date_end: '2022-12-31'
           description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
 
-        - title: Director of Information Technology
-          company: Sonarverse
-          company_url: ''
-          company_logo: ''
-          location: California
-          date_start: '2023-02-01'
-          date_end: '2023-12-31'
-          description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
+        
     design:
       columns: '2'
   # - block: accomplishments
