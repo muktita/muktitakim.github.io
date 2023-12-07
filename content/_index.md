@@ -62,19 +62,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Director of Information Technology
-          company: Cambodian Student Association in the USA
-          company_url: ''
-          company_logo: ''
-          location: California
-          date_start: '2023-10-01'
-          date_end: '2024-10-01'
-          description: |2-
-              Responsibilities include:
-
-              *  Designs and develops front-end web pages using JavaScript and Razor Pages, emphasizing user-friendly interfaces
-                  and efficient API integration for dynamic data display
-              *  Maintains and optimizes back-end database systems, primarily MS SQL, ensuring robust data management and supporting seamless back-end processes
         - title: IT Student Assistant
           company: California State University, Fullerton
           company_url: ''
@@ -99,7 +86,7 @@ sections:
           description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
           
     design:
-      columns: '3'
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
