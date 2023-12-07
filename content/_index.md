@@ -62,6 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Director of Information Technology
+          company: Cambodian Student Association in the USA
+          company_url: ''
+          company_logo: ''
+          location: California
+          date_start: '2023-10-01'
+          date_end: '2024-10-01'
+          description: |2-
+          * Lead website redevelopment using JavaScript and Bootstrap, managing full-stack development from design to deployment
+          * Manages website’s technical infrastructure, including domain hosting and email setup, ensuring robust operational performance.
+          * Implements Agile Scrum methodologies, streamlining project delivery and enhancing team collaboration in web development
         - title: IT Student Assistant
           company: California State University, Fullerton
           company_url: ''
@@ -75,17 +86,7 @@ sections:
               *  Designs and develops front-end web pages using JavaScript and Razor Pages, emphasizing user-friendly interfaces
                   and efficient API integration for dynamic data display
               *  Maintains and optimizes back-end database systems, primarily MS SQL, ensuring robust data management and supporting seamless back-end processes
-        - title: Director of Information Technology
-          company: Cambodian Student Association in the USA
-          company_url: ''
-          company_logo: ''
-          location: California
-          date_start: '2023-10-01'
-          date_end: '2024-10-01'
-          description: |2-
-          * Lead website redevelopment using JavaScript and Bootstrap, managing full-stack development from design to deployment
-          * Manages website’s technical infrastructure, including domain hosting and email setup, ensuring robust operational performance.
-          * Implements Agile Scrum methodologies, streamlining project delivery and enhancing team collaboration in web development
+        
         - title: Software Engineer Intern
           company: Sonarverse
           company_url: ''
