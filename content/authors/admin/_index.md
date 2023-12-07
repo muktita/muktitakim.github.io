@@ -69,12 +69,12 @@ skills:
       - name: Git, Docker, Servers (AWS EC2, Azure Virtual Server)
         description: ''
         percent: 100
-        icon: toolbox
+        icon: docker
         icon_pack: fas
-      - name: Cats
+      - name: React, Vue, Tailwinds
         description: ''
         percent: 100
-        icon: cat
+        icon: web
         icon_pack: fas
       - name: Software Development Life Cycle (Agile Scrum, XP, Kanban, Jira)
         description: ''
