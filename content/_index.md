@@ -75,16 +75,14 @@ sections:
               *  Designs and develops front-end web pages using JavaScript and Razor Pages, emphasizing user-friendly interfaces
                   and efficient API integration for dynamic data display
               *  Maintains and optimizes back-end database systems, primarily MS SQL, ensuring robust data management and supporting seamless back-end processes
-        
         - title: Software Engineer Intern
           company: Sonarverse
           company_url: ''
           company_logo: ''
           location: California
           date_start: '2022-08-01'
-          date_end: '2023-1-01'
+          date_end: '2022-12-31'
           description: Developed an Ethereum Web Application on the Ethereum blockchain, enabling the creation of a data-rich graph by utilizing FastAPI and custom SQL queries on the Snowflake Cloud Database.
-          
     design:
       columns: '2'
   # - block: accomplishments
