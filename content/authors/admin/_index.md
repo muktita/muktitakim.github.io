@@ -57,11 +57,6 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-        - name: Vue, React, Tailwind, Bootstrap
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: MySQL, MS SQL, PostgreSQL, MongoDB, Redis
         description: ''
         percent: 100
