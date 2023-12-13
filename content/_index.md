@@ -187,8 +187,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Full Stack
+          tag: Full Stack
         - name: Other
           tag: Demo
     design:
@@ -257,8 +257,8 @@ sections:
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        # street: 450 Serra Mall
+        city: Fullerton
         region: CA
         postcode: '94305'
         country: United States
